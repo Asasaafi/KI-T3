@@ -26,16 +26,7 @@ Program ini mengimplementasikan komunikasi dua device (client dan server) yang s
 
 ## Cara Menjalankan
 
-### 1. Install library yang diperlukan
+### install library yang diperlukan
 ```bash
 pip install pycryptodome
-
-### 2. Untuk device server
-```bash
-python server.py
-
-### 3. Untuk device client
-```bash
-python client.py
-
 
